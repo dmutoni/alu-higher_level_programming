@@ -18,4 +18,3 @@ for arg in argv[1:]:
     arg_list.append(arg)
 
 save_to_json_file(arg_list, file)
-
